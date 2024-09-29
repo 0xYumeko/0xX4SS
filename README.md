@@ -8,13 +8,16 @@ Vulnerability Testing:
 For each gathered URL, the script injects each payload and checks the response for any script execution (looking for a specific alert in the response).
 If a vulnerability is found, it logs the vulnerable URL with the injected payload in the terminal.
 
-Prérequis
+<h1>Prérequis : </h1>
+
 Bash
+
 ```bash
 waybackurls
 ```
 ```bash
 gau
 ```
-
+```bash
 curl
+```
