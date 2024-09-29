@@ -1,6 +1,6 @@
 ![dddd](https://github.com/user-attachments/assets/970870c8-d50a-42f8-908b-d394171b2f4c)
 
-Summary of the HACK BACK Script
+Summary of the 0xX4SS Script
 Purpose: The script is designed to test a target domain for XSS (Cross-Site Scripting) vulnerabilities by injecting various payloads into URLs.
 
 Vulnerability Testing:
