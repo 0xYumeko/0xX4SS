@@ -21,3 +21,18 @@ gau
 ```bash
 curl
 ```
+
+<h1>Installation : </h1>
+
+```bash
+git clone https://github.com/0xYumeko/0xX4SS.git
+
+cd 0xX4SS
+
+chmod +x 0xX4SS.sh
+
+sudo ./0xX4SS.sh
+
+```
+
+
